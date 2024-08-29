@@ -7,6 +7,11 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique used 
 ## Simulation Link
   https://wokwi.com/projects/407544268292841473
 
+## Results
+Refer to the following image for visualization of PCA results:
+    
+  <img src="https://github.com/AtharvaPawar456/PCA-on-ESP32/blob/main/Screenshot%202024-08-29%20151409.png" alt="PCA Results" width="600"/>
+
 ## Objectives
     Dimensionality Reduction: Reduce data from 25 dimensions to 5 dimensions.
     
@@ -33,13 +38,6 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique used 
     Start the ESP32 and monitor the output for PCA results.
     
     Check the output for reduced dimensionality data.
-## Results
-    Refer to the following image for visualization of PCA results:
-
-  <img src="https://github.com/AtharvaPawar456/PCA-on-ESP32/blob/main/Screenshot%202024-08-29%20151409.png" alt="PCA Results" width="600"/>
-
-
-
 
 ## Contribution
     Feel free to contribute to this project by submitting issues or pull requests.
